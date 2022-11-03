@@ -1,0 +1,28 @@
+#body{
+    background-color: rgb(223, 223, 223);
+}
+
+#ache1 {
+    color : white;
+    text-shadow: 0px 0px 15px green;
+}
+
+#header{
+    background: rgb(0, 0, 0);
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+#comprar{
+    background-color: rgb(85, 85, 85);
+}
+
+section{
+    margin: 25px 5px;
+}
+
+footer{
+    background-color: black;
+}
